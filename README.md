@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, MongoDB, AWS**
 
-💬 Ask me about **Node.js, React, TailwindCSS... or anything [here](https://github.com/rajkannamrk123/rajkannamrk123/issues)**
+💬 Ask me about **Node.js, React, TailwindCSS... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
 ⚡ Fun fact **Ants take rest for around 8 Minutes in 12-hour period.**
 
@@ -50,7 +50,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rajkannamrk123/rajkannamrk123/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
