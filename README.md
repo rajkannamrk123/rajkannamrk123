@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, TailwindCSS... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Ants take rest for around 8 Minutes in 12-hour period.**
 
  </div>
  
@@ -26,6 +26,9 @@
   </a>
   <a href="https://linkedin.com/in/rajkannamrk" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/rajkannamrk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" target="_blank" />
   </a>
   <a href="https://rajkannamrk123.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
